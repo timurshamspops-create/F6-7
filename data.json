@@ -1,0 +1,443 @@
+{
+  "settings": {
+    "leagueName": "F6-7",
+    "season": "Сезон 2026",
+    "tagline": "Симрейсинг-лига для тех, кто выжимает десятые на пределе сцепления\n(site by tg: @oneofthebestmemolog)"
+  },
+  "teams": [
+    {
+      "id": "t1",
+      "name": "Maximum racing",
+      "color": "#983dff",
+      "logoUrl": "https://sun9-51.userapi.com/s/v1/ig2/2fyJLXNfxxv5-8AMG04cEs4JceVB3H1vJ_0OXVYPbAAfyj91tR_lpYTK10W0yu3vmLh9Xax7XYHJRYMvgINMO7RB.jpg?quality=95&as=32x36,48x53,72x80,108x120,160x178,240x266,360x400,480x533,540x600,640x711,720x799,1080x1199,1280x1421,1440x1599,2047x2273&from=bu&u=BzUZftE3PvSYcSrTpILvacDc-7ZxqmtGV_5N3gEr33I&cs=1080x0",
+      "description": "Плевать на очки, главное, чтоб свое целое было"
+    },
+    {
+      "id": "t2",
+      "name": "300 Traktoristo Garage",
+      "color": "#ffffff",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaGx4EswTUthUR5XSJdm9MxNDKkZEtVMoGaYQB4D94teMDaEwjPVWdJtg&s=10",
+      "description": "Черно-белый танкоград"
+    },
+    {
+      "id": "t3",
+      "name": "Rostic's F6-7 team",
+      "color": "#FF4D5E",
+      "logoUrl": "https://sun9-55.userapi.com/s/v1/ig2/BK61qCXLfL-j5n-QCTBved-MzFk1PItnxYbk6CjTC6nkx1Oug-2aR9zWeCyPe7WDFAc5deLBb6dp8LZMmE06I4hu.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,900x900&from=bu&u=XJKPymuHFVRBormbkCEt4AqKejoXx_FpSzcyltH77Xs&cs=900x0",
+      "description": "Если бы у моего отца была вульва, он был бы моей мамой"
+    },
+    {
+      "id": "t4",
+      "name": "VK racing",
+      "color": "#3d81ff",
+      "logoUrl": "https://sun9-25.userapi.com/s/v1/ig2/jjjV3oMPVaGzOeasFQ9BgItNWIKOlRnlBiuEJUnazyoM8NWX2JFZRL_Xo2lQCNsfOwFRc_V15DgNlIRy4enEieGT.jpg?quality=95&as=32x33,48x49,72x73,108x110,160x163,240x244,360x366,480x488,540x549,640x650,720x732,1080x1097,1280x1301,1440x1463,2046x2079&from=bu&u=n8xDRe7X7z1_MN0GssY-eB4Na-OKtPTis7IgNy_wNSg&cs=1280x0",
+      "description": "а че там делать то"
+    },
+    {
+      "id": "t5",
+      "name": "Ozon Racing",
+      "color": "#2600ff",
+      "logoUrl": "https://sun9-74.userapi.com/s/v1/ig2/1bR81xiExxiyersuP1g1fMSvueUr_HQcMxzp9mM03Phm3eXK5kxbNDqMbZfzS5wzHsWmffhls1ruT7hFY0og2ipp.jpg?quality=95&as=32x31,48x47,72x70,108x105,160x156,240x234,360x351,480x469,540x527,640x625,720x703,1080x1054,1280x1249,1440x1406,2047x1998&from=bu&u=t_4VCYUMwZTbDEzlE6oJbi2PFKCpiSJ089Fz_tpDWfM&cs=640x0",
+      "description": "Х#й - не нос, назад не шмыгнешь"
+    },
+    {
+      "id": "t6",
+      "name": "Goshan F67 team",
+      "color": "#FFC53D",
+      "logoUrl": "",
+      "description": "Тяжело найти работу мечты, когда твоя мечта не работать"
+    },
+    {
+      "id": "t7",
+      "name": "Viperrr 67 racing",
+      "color": "#f3ff52",
+      "logoUrl": "",
+      "description": "нет пузыриков. свинья легла на дно бокала мертвым грузом. жалкое зрелище."
+    },
+    {
+      "id": "t8",
+      "name": "Jagermeister",
+      "color": "#0e4700",
+      "logoUrl": "https://www.brandslex.de/img/logos/png/j/logo-jaegermeister-01.png",
+      "description": "бульк бульк бульк"
+    }
+  ],
+  "drivers": [
+    {
+      "id": "d1",
+      "name": "Иван Глухов",
+      "teamId": "t1",
+      "number": 33,
+      "photoUrl": "https://sun9-75.userapi.com/s/v1/ig2/gimE9Imn1aGtk6B6BHwMM47mRdYZ-fEzQWF4cObF2WL3UDp7HcH0T6bNwLJUNiiKwok_jtkbMOJzkFFynEnGSDfZ.jpg?quality=95&as=32x37,48x56,72x84,108x126,160x187,240x280,360x420,480x560,540x630,640x747,720x840,1080x1260,1161x1355&from=bu&u=JsZGiU-p2u_iGCxCazvMQM_GLmh2EGlhRUcznkkjxec&cs=1080x0"
+    },
+    {
+      "id": "d2",
+      "name": "Тимур Шамсутдинов",
+      "teamId": "t2",
+      "number": 74,
+      "photoUrl": "https://sun9-32.userapi.com/s/v1/ig2/VzBdwB9drL43jzJWIU-Vt358L1zuoUXkeuttfIXBeyp42CrlWxZZNIWKwctfZ6swETPUgz3c1hTqQJG_O5AWw4pR.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960&from=bu&u=EoBhSN2597E7DKjw_c5uDVUS-gWm7fZIjr3By3-G5k4&cs=640x0"
+    },
+    {
+      "id": "d3",
+      "name": "Тимур Муханов",
+      "teamId": "t3",
+      "number": 42,
+      "photoUrl": "https://sun9-72.userapi.com/s/v1/ig2/smFXR5loyIGDJv0p8JAfWMWhol1AlBNkJcYr0vFTd3J6A_Zo6Ihq6BDAQlw3jTAhi6xRa2OUflp-lPSmTDBLMfhO.jpg?quality=95&as=32x35,48x52,72x78,108x117,160x173,240x259,360x389,480x518,540x583,640x691,720x777,905x977&from=bu&u=MeX2btyVI_-OKKPzZin9kZP8AyonX4fU5l9atCxbJ_k&cs=905x0"
+    },
+    {
+      "id": "d4",
+      "name": "Влад Кузнецов",
+      "teamId": "t4",
+      "number": 67,
+      "photoUrl": "https://sun9-26.userapi.com/s/v1/ig2/_a_DXkRqO7mtnUDe5Zs8sP5DdKzHcYhNQOEwQ1A6iVyRMyEUr7JbL21MgZgjRu_haUaqT3Wx-1h5pJOtjJh2xMYZ.jpg?quality=95&as=32x35,48x52,72x78,108x117,160x174,240x261,360x391,480x522,540x587,640x695,720x782,1080x1173,1086x1180&from=bu&u=Ex6oALlOh0-8JNDXifKnv02DYgcoil3LiW4l6QB3ibg&cs=1086x0"
+    },
+    {
+      "id": "d5",
+      "name": "Михаил Сарапулов",
+      "teamId": "t5",
+      "number": 17,
+      "photoUrl": "https://sun9-15.userapi.com/s/v1/ig2/rxYbCOdz1Gj1rv-Wjkm6HK_r-HnOU1YV513HyWIl8GM9KWQuswvpRQpW9FOLUZOIyDxlcNz8R5eWotN_E5mAnAJn.jpg?quality=95&as=32x36,48x54,72x81,108x122,160x181,240x271,360x407,480x542,540x610,640x723,720x813,1080x1220,1122x1267&from=bu&u=bWrkw9nipvXvA-kzT8kLnr04Js8Em6TMHxf4cDmYZrU&cs=1080x0"
+    },
+    {
+      "id": "d6",
+      "name": "Гошан Зарубин",
+      "teamId": "t6",
+      "number": 34,
+      "photoUrl": "https://sun9-7.userapi.com/s/v1/ig2/b7qB8EtTe5mSfcFdKKr4JGGC2t3Sehpon-chHzmQXnIXPyEtvNdmKyuZCe8XMJp9ev2vzPDcGBc_wP8LIk1MwNY-.jpg?quality=95&as=32x39,48x59,72x88,108x132,160x195,240x293,360x440,480x586,540x659,640x782,720x879,1080x1319,1135x1386&from=bu&u=TnVEnly21X2vGoDFAmL3xQlzKPZamtGPqNiWEbtf_q4&cs=1080x0"
+    },
+    {
+      "id": "d7",
+      "name": "Егор Харченко",
+      "teamId": "t7",
+      "number": 55,
+      "photoUrl": ""
+    },
+    {
+      "id": "d8",
+      "name": "Арсений Федотов",
+      "teamId": "t8",
+      "number": 71,
+      "photoUrl": ""
+    }
+  ],
+  "races": [
+    {
+      "id": "r1",
+      "name": "Раунд 1 — Гран-при Сингапура",
+      "track": "Marina-Bay",
+      "date": "2026-05-12",
+      "results": [
+        {
+          "driverId": "d3",
+          "position": 1,
+          "points": 25
+        },
+        {
+          "driverId": "d2",
+          "position": 2,
+          "points": 18
+        },
+        {
+          "driverId": "d6",
+          "position": 3,
+          "points": 15
+        },
+        {
+          "driverId": "d4",
+          "position": 4,
+          "points": 12
+        },
+        {
+          "driverId": "d1",
+          "position": 5,
+          "points": 11
+        },
+        {
+          "driverId": "d5",
+          "position": 6,
+          "points": 8
+        },
+        {
+          "driverId": "d8",
+          "position": 7,
+          "points": 0
+        },
+        {
+          "driverId": "d7",
+          "position": 8,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "name": "Раунд 2 — Спринт Саудовской Аравии",
+      "track": "Jeddah Corniche Circuit",
+      "date": "2026-05-14",
+      "results": [
+        {
+          "driverId": "d5",
+          "position": 1,
+          "points": 8
+        },
+        {
+          "driverId": "d2",
+          "position": 2,
+          "points": 7
+        },
+        {
+          "driverId": "d4",
+          "position": 3,
+          "points": 6
+        },
+        {
+          "driverId": "d1",
+          "position": 4,
+          "points": 5
+        },
+        {
+          "driverId": "d3",
+          "position": 5,
+          "points": 4
+        },
+        {
+          "driverId": "d8",
+          "position": 6,
+          "points": 3
+        },
+        {
+          "driverId": "d6",
+          "position": 7,
+          "points": 2
+        },
+        {
+          "driverId": "d7",
+          "position": 8,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "name": "Раунд 2 — Гран При Саудовской Аравии",
+      "track": "Jeddah Corniche Circuit",
+      "date": "2026-05-15",
+      "results": [
+        {
+          "driverId": "d2",
+          "position": 1,
+          "points": 25
+        },
+        {
+          "driverId": "d4",
+          "position": 2,
+          "points": 18
+        },
+        {
+          "driverId": "d1",
+          "position": 3,
+          "points": 15
+        },
+        {
+          "driverId": "d3",
+          "position": 4,
+          "points": 12
+        },
+        {
+          "driverId": "d7",
+          "position": 5,
+          "points": 10
+        },
+        {
+          "driverId": "d6",
+          "position": 6,
+          "points": 8
+        },
+        {
+          "driverId": "d5",
+          "position": 7,
+          "points": 0
+        },
+        {
+          "driverId": "d8",
+          "position": 8,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "name": "Раунд 3 — Спринт Имолы",
+      "track": "Autodromo Enzo e Dino Ferrari",
+      "date": "2026-05-21",
+      "results": [
+        {
+          "driverId": "d5",
+          "position": 1,
+          "points": 8
+        },
+        {
+          "driverId": "d1",
+          "position": 2,
+          "points": 7
+        },
+        {
+          "driverId": "d2",
+          "position": 3,
+          "points": 6
+        },
+        {
+          "driverId": "d4",
+          "position": 4,
+          "points": 5
+        },
+        {
+          "driverId": "d6",
+          "position": 5,
+          "points": 4
+        },
+        {
+          "driverId": "d7",
+          "position": 6,
+          "points": 3
+        },
+        {
+          "driverId": "d8",
+          "position": 7,
+          "points": 2
+        },
+        {
+          "driverId": "d3",
+          "position": 8,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "name": "Раунд 3 — Гран-При Имолы",
+      "track": "Autodromo Enzo e Dino Ferrari",
+      "date": "2026-05-22",
+      "results": [
+        {
+          "driverId": "d1",
+          "position": 1,
+          "points": 25
+        },
+        {
+          "driverId": "d2",
+          "position": 2,
+          "points": 18
+        },
+        {
+          "driverId": "d4",
+          "position": 3,
+          "points": 15
+        },
+        {
+          "driverId": "d7",
+          "position": 4,
+          "points": 12
+        },
+        {
+          "driverId": "d5",
+          "position": 5,
+          "points": 10
+        },
+        {
+          "driverId": "d6",
+          "position": 6,
+          "points": 8
+        },
+        {
+          "driverId": "d8",
+          "position": 7,
+          "points": 0
+        },
+        {
+          "driverId": "d3",
+          "position": 8,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "id": "r6",
+      "name": "Раунд 4 — Гран-При Лас Вегаса",
+      "track": "Las Vegas Strip Circuit",
+      "date": "2026-05-24",
+      "results": [
+        {
+          "driverId": "d1",
+          "position": 1,
+          "points": 25
+        },
+        {
+          "driverId": "d3",
+          "position": 2,
+          "points": 18
+        },
+        {
+          "driverId": "d8",
+          "position": 3,
+          "points": 15
+        },
+        {
+          "driverId": "d7",
+          "position": 4,
+          "points": 12
+        },
+        {
+          "driverId": "d5",
+          "position": 5,
+          "points": 0
+        },
+        {
+          "driverId": "d4",
+          "position": 6,
+          "points": 0
+        },
+        {
+          "driverId": "d2",
+          "position": 7,
+          "points": 0
+        },
+        {
+          "driverId": "d6",
+          "position": 8,
+          "points": 0
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "res1",
+      "title": "Discord сообщества",
+      "url": "https://discord.com",
+      "category": "Сообщество",
+      "icon": "💬"
+    },
+    {
+      "id": "res2",
+      "title": "Регламент чемпионата",
+      "url": "#",
+      "category": "Документы",
+      "icon": "📋"
+    },
+    {
+      "id": "res3",
+      "title": "Трансляции гонок",
+      "url": "https://twitch.tv/bestmemolog",
+      "category": "Трансляции",
+      "icon": "📺"
+    },
+    {
+      "id": "res4",
+      "title": "Telegram-канал лиги",
+      "url": "https://t.me/+WDQVk-nbFsc5ZDEy",
+      "category": "Сообщество",
+      "icon": "📢"
+    }
+  ]
+}
