@@ -15,7 +15,7 @@
 export const SETTINGS = {
   leagueName: "F6-7",
   season: "Сезон 2026",
-  tagline: "Симрейсинг-лига для тех, кто выжимает десятые на пределе сцепления",
+  tagline: "Симрейсинг-лига для тех, кто выжимает десятые на пределе сцепления\n(site by tg: @oneofthebestmemolog)",
   // Ссылка на лого на главной странице. "/logo.png" — файл в client/public/logo.png.
   // Можно оставить пустой строкой "" — тогда покажется текст "F6•7".
   heroLogoUrl: "/logo.png",
