@@ -170,4 +170,5 @@ export const RESOURCES = [
   { id: "res2", title: "Регламент чемпионата", url: "#", category: "Документы", icon: "📋" },
   { id: "res3", title: "Трансляции гонок", url: "https://twitch.tv/bestmemolog", category: "Трансляции", icon: "📺" },
   { id: "res4", title: "Telegram-канал лиги", url: "https://t.me/Formula67news", category: "Сообщество", icon: "📢" },
+  { id: "res5", title: "Tik tok лиги", url: "https://www.tiktok.com/@champignonat_f67?lang=ru-RU", category: "Сообщество", icon: "📱" },
 ];
