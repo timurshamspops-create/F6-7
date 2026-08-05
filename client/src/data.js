@@ -167,7 +167,7 @@ export const RACES = [
 // ---------------------------------------------------------------------------
 export const RESOURCES = [
   { id: "res1", title: "Discord сообщества", url: "https://discord.com", category: "Сообщество", icon: "💬" },
-  { id: "res2", title: "Регламент чемпионата", url: "https://docs.google.com/document/d/1hjHLj4g_iUERBz6JQ2LPjZQL0m1Hul6e/edit?usp=sharing&ouid=111006579976191160376&rtpof=true&sd=true", category: "Документы", icon: "📋" },
+  { id: "res2", title: "Регламент чемпионата", url: "https://drive.google.com/file/d/1IuDlo4kWTbx8YQ1-r4kx6oeDyteNKUZX/view?usp=drive_link", category: "Документы", icon: "📋" },
   { id: "res3", title: "Трансляции гонок", url: "https://twitch.tv/bestmemolog", category: "Трансляции", icon: "📺" },
   { id: "res4", title: "Telegram-канал лиги", url: "https://t.me/Formula67news", category: "Сообщество", icon: "📢" },
   { id: "res5", title: "Tik tok лиги", url: "https://www.tiktok.com/@champignonat_f67?lang=ru-RU", category: "Сообщество", icon: "📱" },
